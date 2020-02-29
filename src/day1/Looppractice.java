@@ -5,6 +5,8 @@ public class Looppractice {
         //some random code
         for (int i=0; i<10; i+=2){
             System.out.println("Counter::" +1);
+            System.out.println("#################################");
+
 
         }
     }
